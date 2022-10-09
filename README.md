@@ -169,7 +169,9 @@ I decided to go on with Tableau to visualize my cleaned data. And I create a das
 [I wanted to do it with python or R but data was not that huge. Also, it is better to practise all the tools.]
 
 ## Conclusion
-It was fun doing the project. I hope, I didn't made much mistakes. It is just my first project so, I am hoping lots of positive feedbacks.
+As we can notice here in the different diagrams here. The superstar with a height of 6'1" to 6'5" has the most title wins. So, it will be safe to predict that WWE sees it as championship material. Furthermore, it was visualized that superstars with weights between 200lbs and 300lbs are most likely to win the gold.
+
+It was fun doing the project. I hope, I didn't made much mistakes. It is just my first project so, I am hoping lots of positive feedbacks. 
 
 ## Feel Free to contact me
 - [Twitter](https://twitter.com/DataLakandri)
