@@ -163,7 +163,7 @@ The, I cleaned the data and stored it in new sheet [cleaned Data from Web Scrapp
 ## Visualization
 I decided to go on with Tableau to visualize my cleaned data. And I create a dashboard [The WWE Championship Material](https://public.tableau.com/views/TheWWEChampionshipMaterial/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) with the data.   
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Report](https://github.com/JagatJung/The-Championship-Material/blob/main/Report.png)
 
 
 [I wanted to do it with python or R but data was not that huge. Also, it is better to practise all the tools.]
