@@ -14,10 +14,10 @@ wrestler_dates = []
 wrestler_time= []
 
 #=====collecting the data===============
-for job_element in job_elements:
-    name = job_element.find("td", class_="champ")
-    dates = job_element.find("td", class_="reign-dates")
-    time = job_element.find("td", class_="time-held")
+for champ_element in champ_elements:
+    name = champ_element.find("td", class_="champ")
+    dates = champ_element.find("td", class_="reign-dates")
+    time = champ_element.find("td", class_="time-held")
     wrestler_name = wrestler_name + [name.text]
     wrestler_dates = wrestler_dates + [dates.text]
     wrestler_time = wrestler_time +[time.text]
